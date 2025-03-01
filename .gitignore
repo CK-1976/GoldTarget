@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 虚拟环境
+venv/
+ENV/
+
+# SQLite数据库
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 鸿蒙开发相关
+.gradle/
+node_modules/
+ohos_*/
+**/build/
+**/build-profile.json5
+local.properties
+
+# 日志
+*.log
+logs/
+
+# 数据文件
+*.csv
+*.xls
+*.xlsx
